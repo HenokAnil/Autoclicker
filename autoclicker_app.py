@@ -1,4 +1,4 @@
-"""Interactive auto clicker with a rich Tkinter UI and global hotkeys.
+"""Interactive auto clicker with a simple Tkinter UI and global hotkeys.
 
 Dependencies
 -----------
