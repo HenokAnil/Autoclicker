@@ -28,7 +28,7 @@ pip install pynput
 ### Using the Executable (.exe)
 If you prefer not to install Python, you can use the pre-built executable:
 
-1. Download `Autoclicker.exe` from the `dist` folder
+1. Download `Autoclicker.exe` from the `executable` folder
 2. Double-click to run - no installation needed!
 3. The application will launch with the full GUI
 
@@ -46,5 +46,5 @@ To build the .exe file yourself:
    pyinstaller --onefile --windowed --name "Autoclicker" autoclicker_app.py
    ```
 
-3. The executable will be created in the `dist` folder
+3. The executable will be created in the `executable` folder
 
